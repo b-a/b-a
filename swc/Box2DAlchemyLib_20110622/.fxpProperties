@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fxpProperties abbreviated="false" authoringTool="Flex Builder" compiles="true" parentProject="e61e52ef-bd09-4062-8d05-18482eaae67d" projectUUID="e61e52ef-bd09-4062-8d05-18482eaae67d" sdkVersion="4.1.0" uuid="760b5496-3b7c-4642-9ee9-6f020a03dc7c" version="4">
+  <projects/>
+  <src/>
+  <swc>
+    <linked location="sdkPlaceHolder" path="sdkPlaceHolder" position="0" uuid="760b5496-3b7c-4642-9ee9-6f020a03dc7c"/>
+    <linked location="D:/Workspaces/WorkspaceFlex40/Box2DAlchemyLib/libs" path="/libs" position="1" uuid="760b5496-3b7c-4642-9ee9-6f020a03dc7c"/>
+  </swc>
+  <misc/>
+  <theme/>
+</fxpProperties>
